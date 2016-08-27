@@ -1,0 +1,6 @@
+http://www.danielgynn.com/node-auth-part2/
+https://github.com/danielgynn/express-authentication
+
+bugs:
+
+https://github.com/jaredhanson/passport-facebook#why-is-__-appended-to-the-redirect-uri
