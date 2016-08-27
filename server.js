@@ -1,4 +1,4 @@
-console.log("commited into the Master bracnh at 12.53 AM");
+console.log("pullling update fro the master and commiting to branch at 12.57 AM");
 console.log("introducing the session management in this app");
 console.log("process.env.NODE_ENV:::"+ process.env.NODE_ENV);
 
