@@ -44,7 +44,8 @@
     "socket.io": "1.2.0",
     "underscore": "1.6.0",
     "winston": "0.7.3",
-    "winston-logstash": "0.1.10"
+    "winston-logstash": "0.1.10",
+    "sequelize":"3.23.3"
   },
   "devDependencies": {
     "chai": "1.10.0",
