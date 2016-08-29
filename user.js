@@ -1,3 +1,4 @@
+console.log("from the VS code");
 var mangoose  = require('mongoose');
 var Schema = mangoose.Schema;
 var userSchema = new Schema({
